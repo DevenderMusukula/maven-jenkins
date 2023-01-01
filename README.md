@@ -1,1 +1,1 @@
-# maven-jenkins
+# jenkins-maven
